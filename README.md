@@ -1,2 +1,2 @@
 # my-first-mobile-app
-Seedify: A mobile app for Entrepreneur's to raise money
+Seedify: A mobile app to help Entrepreneur's raise money
